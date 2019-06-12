@@ -1,3 +1,5 @@
 node_modules
 .idea
 build
+static/uploads/files/*
+static/uploads/images/*
