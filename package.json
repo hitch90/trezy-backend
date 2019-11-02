@@ -33,7 +33,7 @@
     "mysql2": "^1.6.5",
     "reflect-metadata": "^0.1.13",
     "req-flash": "0.0.3",
-    "sequelize": "^5.8.9",
+    "sequelize": "^5.15.1",
     "ts-node-dev": "^1.0.0-pre.40",
     "typescript": "^3.5.1"
   }
